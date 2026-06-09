@@ -1,3 +1,3 @@
 # Aclaraciones_MVP
 Buenas tardes, no se encuentra tablero en power bi ya que en mi dispositivo no funciona power bi, dado que es linux, y el power bi web, al cargar los datos se congela el pc en su totalidad, por lo cual no pude mostrar tablero en power bi, lastimosamente no pude cumplir con este requerimiento por problemas de mi dispositivo, pero ofresco la siguiente opcion para su visualizacion.
-En el Google Colab estan las graficas necesarias, y en el pptx estan imagenes de la base de datos antes y despues de la migracion, cualquier pregunta ideada, se respondera con total claridad en la presentacion de este mismo proyecto
+En el Google Colab estan las graficas necesarias, y en el pptx estan imagenes de la base de datos antes y despues de la migracion, ademas se adjunta en este mismo repositorio el flujo de automatizacion propuesto. Cualquier pregunta ideada, se respondera con total claridad en la presentacion de este mismo proyecto.
